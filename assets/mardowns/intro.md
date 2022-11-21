@@ -53,6 +53,6 @@ The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML doc
 
 A browser does not display the HTML tags, but uses them to determine how to display the document:
 
-IMAGE GOES HERE
+![first browser](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/ef537da4dd42a070804a84c440ce67d564866ce9/assets/browser_first.png)
 
 
