@@ -9,7 +9,7 @@
  - [Attributes](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/bbd9e2a5750cda464c4714a2aec285e61959a9be/assets/mardowns/attributes.md)
  - [Paragraphs](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/5dc2aca8b7b920872e70fa06c2e6b5cb21c4609c/assets/mardowns/paragraph.md)
  - [Styles](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/2ff7bcfb35d175b8b06a7679bf594f801c20d5de/assets/mardowns/styles.md)
- - Formatting
+ - [Formatting](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/5d64c88ad952ca15dc5fc5f7035ccc38f878f912/assets/mardowns/formatting.md)
  - Quotations
  - Comments
  - Links
