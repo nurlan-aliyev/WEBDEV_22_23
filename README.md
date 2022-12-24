@@ -16,7 +16,7 @@
  - [Favicon](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/eddf2134242f402831debad797adfc3c9c94d8b1/assets/mardowns/favicon.md)
  - [Tables](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/048fdcfdec5802e3d3d940b18d8a521cc2f84ef1/assets/mardowns/table.md)
  - [Lists](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/a421059e018a1496eb119725392c8b2fb9e0d8b4/assets/mardowns/lists.md)
- - Block & Inline
+ - [Block & Inline](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/c648e0c7e135b77b962d3a02e232d17299a9d440/assets/mardowns/blocandinline.md)
  - Classes
  - ID
  - Head
