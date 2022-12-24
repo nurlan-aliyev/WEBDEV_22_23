@@ -13,7 +13,7 @@
  - [Quotations](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/f57f3f7c38dd2e46ddf206d080d9f0a1367bbef3/assets/mardowns/quotation_citation.md)
  - [Comments](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/b8daeb69b6e66bab80f4a32da5ecbbea677ef71f/assets/mardowns/comments.md)
  - [Links](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/af0aa9cbb463f5c0599c03b9694a40fc0d94df9e/assets/mardowns/links.md)
- - Favicon
+ - [Favicon](https://github.com/nurlan-aliyev/WEBDEV_22_23/blob/eddf2134242f402831debad797adfc3c9c94d8b1/assets/mardowns/favicon.md)
  - Tables
  - Lists
  - Block & Inline
